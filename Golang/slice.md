@@ -30,7 +30,7 @@ func main(){
 
 
 
-![2021-4-25](../assets/2021-4-25.jpg)
+![2021-4-25](https://raw.githubusercontent.com/mainjzb/Blog/main/assets/2021-4-25.jpg)
 
 学过C++和Java的人应该能理解，这是浅拷贝或指针复用相关的问题。由于`s`的`len`并未修改所以，第二次在添加数据的时候依旧是添加的`9`后面。
 
